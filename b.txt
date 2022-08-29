@@ -1,4 +1,4 @@
 public static void mai(Sting args[])
 {
-printf("hello world how is the day");
+printf("hello world speed  how is the day");
 }
