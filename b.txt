@@ -1,0 +1,4 @@
+public static void mai(Sting args[])
+{
+printf("hello world");
+}
